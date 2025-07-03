@@ -12,7 +12,7 @@ Implementação do https://www.tabnews.com.br para o https://curso.dev
 
 ```bash
 # Clone e instale
-git clone <url-do-repositorio>
+git clone https://github.com/silvajeferson82/clone-tabnews.git
 cd clone-tabnews
 npm install
 
